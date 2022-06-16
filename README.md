@@ -8,6 +8,6 @@ go dependency tracking for your code.
 
 go mod init [directory]
 
-ex) go mod init example/hello
+ex) go mod init example/HowToModuleImport
 
 ---
