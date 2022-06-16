@@ -1,3 +1,3 @@
-module example/print-text
+module example/print text
 
 go 1.18
