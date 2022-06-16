@@ -1,10 +1,10 @@
 # Getting-started-Go-Lang
 
-고 한번 해봅시다.
+let's start go lang
 
 ---
 
-고 종속성 관리
+go dependency tracking for your code.
 
 go mod init [module name]
 
